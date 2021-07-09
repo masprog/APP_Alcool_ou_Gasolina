@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/GilbertoASJ/Send-mail/">
+  <a href="https://github.com/masprog/simple/">
     <img 
       src="./assets/logo.png" 
       alt="Logo Send mail"
