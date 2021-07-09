@@ -4,7 +4,7 @@
   <a href="https://github.com/masprog/simple/">
     <img 
       src="./assets/logo.png" 
-      alt="Logo Send mail"
+      alt="Logo App Alcool ou gasolina"
       width="100"
       height="100" 
     >
