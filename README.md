@@ -11,5 +11,5 @@
     >
   </a>
 #
-![logo](https://user-images.githubusercontent.com/26737849/125056577-39b9f280-e05d-11eb-92f8-4175ac7f8fce.png)
+![logo](https://user-images.githubusercontent.com/26737849/125058725-6a9b2700-e05f-11eb-8800-cbf36c3788e4.png)
   <h2 align="center">APP Álcool ou Gasolina</h2>
