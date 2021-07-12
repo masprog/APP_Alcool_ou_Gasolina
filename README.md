@@ -1,4 +1,4 @@
-# COVID_Tracking
+# APP ÁLCOOL OU GASOLINA
 Project Covid Tracking.
 
 Platform: Android
