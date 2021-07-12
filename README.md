@@ -19,5 +19,5 @@ Feel free to suggest new features, to make this project much more complete.
 - [ ] Room Database (for to save data of the API in the cache...)
 - [ ] Paging Androidx (to control the data processing flow returned by the api)
 
-![ScreenShot](https://github.com/Romavic/COVID_Tracking/blob/master/AppFolderUtil/image1.png)
+![App](https://user-images.githubusercontent.com/26737849/125319174-5e2cfd80-e2ef-11eb-9235-213a2026dd50.PNG)
 
