@@ -20,6 +20,4 @@ Feel free to suggest new features, to make this project much more complete.
 - [ ] Paging Androidx (to control the data processing flow returned by the api)
 
 ![ScreenShot](https://github.com/Romavic/COVID_Tracking/blob/master/AppFolderUtil/image1.png)
-![ScreenShot](https://github.com/Romavic/COVID_Tracking/blob/master/AppFolderUtil/image2.png)
-![ScreenShot](https://github.com/Romavic/COVID_Tracking/blob/master/AppFolderUtil/image3.png)
-  
+
