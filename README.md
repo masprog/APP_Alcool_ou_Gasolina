@@ -3,8 +3,10 @@ App simples
 
 Plataforma: Android
 
+Linguagem de programação: Java
 
-Descrição: Este app simples permite saber se e melhor utlizar alcool ou gasolina entroduzindo valores dos mesmo em determinados campos. o objectivo desse app e aprender a utilizar caixa de texto, recuperar valor de uma caixa de texto etc .. 
+
+*Descrição*: Este app simples permite saber se e melhor utlizar alcool ou gasolina entroduzindo valores dos mesmo em determinados campos. o objectivo desse app e aprender a utilizar caixa de texto, recuperar valor de uma caixa de texto etc .. 
 
 
 
